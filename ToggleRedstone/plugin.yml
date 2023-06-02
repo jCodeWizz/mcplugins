@@ -1,0 +1,4 @@
+main: dev.codewizz.toggle.Main
+name: toggleredstonelamps
+version: '1.0'
+api-version: 1.19
